@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mansa K, @mansakrishna23
 - 👀 I’m interested in Data Science and Machine Learning, specifically with applications in sustainability, healthcare, and earth, atmospheric, and oceanic sciences. 
-- 🌱 I’m currently an Applied Mathematics major with a specialization in Computing at UCLA, looking to go to Grad School. 
+- 🌱 I’m currently an Applied Mathematics major with a specialization in Computing at the University of California - Los Angeles (UCLA), looking to go to Grad School. 
 - 📫 You can reach me through email: mansakrishna23@gmail.com
