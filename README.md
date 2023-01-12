@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mansa K, @mansakrishna23
-- 👀 I’m interested in Data Science and Machine Learning, specifically with applications in sustainability and earth sciences (atmospheric, oceanic, and crysopheric sciences). 
-- 🌱 I’m graduated from the University of California - Los Angeles (UCLA) with a B.S. in Applied Mathematics, Specialization in Computing. I will be heading to Graduate School in the Fall!
+- 👀 I’m interested in Deep Learning with applications in Earth Sciences (specifically, the polar sciences). 
+- 🌱 I’m graduated from the University of California - Los Angeles (UCLA) with a B.S. in Applied Mathematics, Specialization in Computing. I am currently a graduate student at Dartmouth. 
 - 📫 You can reach me through [email](mailto:mansakrishna23@gmail.com). 
